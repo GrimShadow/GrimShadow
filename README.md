@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GrimShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrimShadow)](https://github.com/GrimShadow/github-readme-stats)
+[![GrimShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrimShadow&show_icons=true&bg_color=00000000)](https://github.com/GrimShadow/github-readme-stats)
 
 <!--
 **GrimShadow/GrimShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
